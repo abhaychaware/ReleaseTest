@@ -1,0 +1,3 @@
+[submodule "ReleaseTestSub"]
+	path = ReleaseTestSub
+	url = https://github.com/abhaychaware/ReleaseTestSub.git
